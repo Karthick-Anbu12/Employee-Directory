@@ -1,6 +1,11 @@
+website link :https://employee-direc.netlify.app/
+
 **Summary:**
+
 A simple, responsive employee directory built using frontend technologies. This app allows users to view, add, edit, delete, and search employee details. All data is stored locally in the system, so no backend or database is required.
+
 **Project Structure Overview**
+
 employee-directory/
 ├── public/                  # Static files (favicon, etc.)
 ├── src/                     # Application source code
